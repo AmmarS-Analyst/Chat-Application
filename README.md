@@ -43,7 +43,7 @@ A simple Java-based peer-to-peer chat application with GUI that allows users to 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/chat-application.git
+   git clone https://github.com/AmmarS-Analyst/Chat-Application.git
    cd chat-application
    ```
 
