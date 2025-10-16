@@ -21,7 +21,7 @@ A simple Java-based peer-to-peer chat application with GUI that allows users to 
 +-----------------------------------------------+
 | [Settings Panel]      | [Reply Received]      |
 |                       |                       |
-| Name: [ Wahaj   ]     | +-------------------+ |
+| Name: [ Ammar   ]     | +-------------------+ |
 | IP:   [ localhost ]   | | Client: Hello!    | |
 | Port: [ 8080     ]    | | You: Hi there!    | |
 |                       | | Client: How are u?| |
