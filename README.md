@@ -88,7 +88,7 @@ A simple Java-based peer-to-peer chat application with GUI that allows users to 
 
 | Field | Description | Example |
 |-------|-------------|---------|
-| **Your Name** | Your display name | `Wahaj` |
+| **Your Name** | Your display name | `Ammar` |
 | **IP Address** | Host IP address | `localhost` or `192.168.1.100` |
 | **Port Number** | Communication port | `8080`, `1234` |
 
