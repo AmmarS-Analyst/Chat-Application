@@ -1,6 +1,6 @@
-# Chat Application
+# Chat Application (OOP)
 
-A simple Java-based peer-to-peer chat application with GUI that allows users to connect as either host or client and exchange messages in real-time.
+An Object Oriented Java-based peer-to-peer chat application with GUI that allows users to connect as either host or client and exchange messages in real-time.
 
 ![Java](https://img.shields.io/badge/Java-17+-blue)
 ![Swing](https://img.shields.io/badge/GUI-Swing-orange)
